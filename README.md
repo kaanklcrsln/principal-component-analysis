@@ -2,6 +2,8 @@
 
 A graphical user interface (GUI) application that analyzes TIFF images using PCA (Principal Component Analysis).
 
+<img width="864" height="755" alt="Screenshot 2026-01-28 at 14 37 56" src="https://github.com/user-attachments/assets/6e8cf6e2-6d9a-4c73-bb86-e27fd0bbaccc" />
+
 ## Features
 
 - **TIFF Image Support**: Load multi-band and single-band TIFF files
